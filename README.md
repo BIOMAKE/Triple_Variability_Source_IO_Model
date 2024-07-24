@@ -7,8 +7,8 @@ This repository contains the implementation and analysis of a novel statistical 
 
 1. **Triple-Variability-Source Model**: Separates three distinct sources of variability in MEP responses:
    - Stimulation-side variability ($v_\textrm{x}$)
-   - Response-side multiplicative variability ($v_y$)
-   - Additive background noise ($v_{add}$)
+   - Response-side multiplicative variability ($v_\textrm{y}$)
+   - Additive background noise ($v_\textrm{add}$)
 
 2. **Improved Recruitment Curve Modeling**: Uses a logarithmic logistic function without a lower plateau, allowing for the detection of responses below the noise floor.
 
