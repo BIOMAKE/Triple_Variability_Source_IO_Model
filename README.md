@@ -6,7 +6,7 @@ This repository contains the implementation and analysis of a novel statistical 
 ## Key Features
 
 1. **Triple-Variability-Source Model**: Separates three distinct sources of variability in MEP responses:
-   - Stimulation-side variability ($v_\textrn{x}$)
+   - Stimulation-side variability ($v_\textrm{x}$)
    - Response-side multiplicative variability ($v_y$)
    - Additive background noise ($v_{add}$)
 
