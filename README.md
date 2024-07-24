@@ -16,7 +16,7 @@ This repository contains the implementation and analysis of a novel statistical 
 
 4. **Enhanced Physiological Variability Estimation**: Accurately estimates physiological variability by separating it from technical noise.
 
-5. **Broad Applicability**: Potential applications in clinical and experimental neuroscience for analyzing brain stimulation IO curves with reduced risk of spurious results and statistical bias.
+5. **Broad Applicability**: Potential applications in clinical and experimental neuroscience for analysing brain stimulation IO curves with reduced risk of spurious results and statistical bias.
 
 ## Significance
 
