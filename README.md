@@ -27,6 +27,9 @@ This folder contains the triple-variability-source model class and its cross-val
 5. `results_v1.mat` saves the cross-validation results.
 6. `corr_PP.mat` saves the values of the correlation coefficient ($R$) of P-P plots for each cross-validation iteration. 
 
+One can use `Logistic3P3VCurveModel_GEV.m` to run optimisation on their datasets. Please ensure that you have enough background noise measurements for the model optimisation.
+
+
 ## Significance
 
 This model provides a robust framework for extracting quantitative information about both the expected recruitment and variability sources in MEP responses. It offers a valuable tool for studying the physiology of MEPs, excitation, and neuromodulation.
