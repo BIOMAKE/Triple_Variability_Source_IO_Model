@@ -1,4 +1,4 @@
-# Triple_Variability_Source_IO_Model
+# Triple-Variability-Source MEP IO Model
 ## Introduction
 
 This repository contains the implementation and analysis of a novel statistical model for analyzing motor-evoked potential (MEP) input-output (IO) curves in transcranial magnetic stimulation (TMS) studies.
