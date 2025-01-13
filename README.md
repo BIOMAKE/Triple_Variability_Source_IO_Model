@@ -33,3 +33,7 @@ One can use `Logistic3P3VCurveModel_GEV.m` to run optimisation on their datasets
 ## Significance
 
 This model provides a robust framework for extracting quantitative information about both the expected recruitment and variability sources in MEP responses. It offers a valuable tool for studying the physiology of MEPs, excitation, and neuromodulation.
+
+
+## Publication
+[1] Ma K, Liu S, Qin M, Goetz SM. Extraction of three mechanistically different variability and noise sources in the trial-to-trial variability of brain stimulation. IEEE Transactions on Neural Systems and Rehabilitation Engineering. 2024 Dec 25.
